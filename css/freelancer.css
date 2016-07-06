@@ -93,10 +93,10 @@ header .container {
 }
 
 #menu {
-    max-width:500px;
+    max-width:415px;
     margin-left:auto;
     margin-right:auto; 
-
+    text-align: center;
 }
 
 #menu #mynav{
@@ -104,6 +104,8 @@ header .container {
     margin:0px;
     padding-bottom:40px;
     color:#2c3e50;
+    text-align: center;
+    align-content: center;
 }
 
 #menu #mynav #nav_circle {
@@ -402,7 +404,7 @@ footer .footer-col {
 }
 
 footer .footer-below {
-    padding: 25px 0;
+    padding: 75px 0 25px 0;
     background-color: #fff;
     color:#c3c3c3;
 }
@@ -422,6 +424,52 @@ footer .footer-below {
 .btn:active,
 .btn.active {
     outline: 0;
+}
+
+.social a {
+  float: left;
+  width: 46px;
+  height: 42px;
+  zoom: 0.5;
+  -moz-transform: scale(0.5);
+  -moz-transform-origin: 0 0;
+  background: url(../img/social-sprite.png) no-repeat;
+}
+
+.social a.email {
+  background-position: 0px 0px;
+  margin: 0 40px 0 0;
+}
+
+.social a.linkedin {
+  background-position: -47px 0px;
+  margin: 0 40px 0 0;
+}
+
+/*.social a.dribbble {
+  background-position: -94px 0px;
+  margin: 0 40px 0 0;
+}*/
+
+.social a.twitter {
+  background-position: -138px 0px;
+  margin: 0 0px 0 0;
+}
+
+.social a.email:hover {
+  background-position: 0px -42px;
+}
+
+.social a.linkedin:hover {
+  background-position: -47px -42px;
+}
+
+/*.social a.dribbble:hover {
+  background-position: -94px -42px;
+}*/
+
+.social a.twitter:hover {
+  background-position: -138px -42px;
 }
 
 .scroll-top {
