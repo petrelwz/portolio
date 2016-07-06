@@ -446,15 +446,16 @@ footer .footer-below {
   margin: 0 40px 0 0;
 }
 
-/*.social a.dribbble {
+.social a.resume {
   background-position: -94px 0px;
   margin: 0 40px 0 0;
-}*/
+}
 
 .social a.twitter {
   background-position: -138px 0px;
   margin: 0 0px 0 0;
 }
+
 
 .social a.email:hover {
   background-position: 0px -42px;
@@ -464,13 +465,14 @@ footer .footer-below {
   background-position: -47px -42px;
 }
 
-/*.social a.dribbble:hover {
+.social a.resume:hover {
   background-position: -94px -42px;
-}*/
+}
 
 .social a.twitter:hover {
   background-position: -138px -42px;
 }
+
 
 .scroll-top {
     z-index: 1049;
