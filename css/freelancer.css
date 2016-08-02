@@ -512,6 +512,7 @@ footer .footer-below {
   border: 1px solid #E7E7E7;
   text-align:center;
   font-weight:300;
+  margin-bottom: 30px;
 }
 .portfolio-modal .modal-content h3{
     text-align:center;
@@ -585,4 +586,15 @@ footer .footer-below {
 }
 #flowchart{
     width:100%;
+}
+
+/*Critical Thinking Page*/
+
+#critical-thinking-video{
+    display:block;
+    margin:auto;
+    padding-top: 15px;
+}
+#CTgoal{
+    max-width: 720px;
 }
