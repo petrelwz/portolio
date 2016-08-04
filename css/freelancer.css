@@ -598,3 +598,16 @@ footer .footer-below {
 #CTgoal{
     max-width: 720px;
 }
+.analysis-form{
+    text-align:center;
+    vertical-align:middle;
+}
+.analysis-form img{
+    max-height:64px;
+}
+.analysis-form > div:nth-child(even){
+    background:#e1e6e7;
+} 
+.analysis-form .row div{
+    border-top:3px;
+}
