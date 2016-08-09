@@ -584,7 +584,7 @@ footer .footer-below {
     text-align:center;
     background:#1F2128;
 }
-#flowchart{
+.big-image{
     width:100%;
 }
 
@@ -610,4 +610,11 @@ footer .footer-below {
 } 
 .analysis-form .row div{
     border-top:3px;
+}
+.insights{
+    background-color:#e1e6e7;
+    padding:20px;
+}
+.insights h5{
+    text-align:center;
 }
