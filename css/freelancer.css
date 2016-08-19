@@ -587,6 +587,12 @@ footer .footer-below {
 .big-image{
     width:100%;
 }
+.mid-image{
+    max-width: 77%;
+}
+.small-image{
+    max-width:60%;
+}
 
 /*Critical Thinking Page*/
 
@@ -595,9 +601,7 @@ footer .footer-below {
     margin:auto;
     padding-top: 15px;
 }
-#CTgoal{
-    max-width: 77%;
-}
+
 .analysis-form{
     text-align:center;
     vertical-align:middle;
