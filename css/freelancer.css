@@ -593,7 +593,9 @@ footer .footer-below {
 .small-image{
     max-width:60%;
 }
-
+.xs-image{
+    max-width:10%;
+}
 /*Critical Thinking Page*/
 
 #critical-thinking-video{
