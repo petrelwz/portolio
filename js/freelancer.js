@@ -15,6 +15,15 @@ $(function() {
     });
 });
 
+// Scroll to Project
+$(function(){
+    var current = window.location.href;
+    var rf = current.split("redirectedFrom=")[1];
+    if (rf != null) {
+        $("html, body").animate({ scrollTop: $('#' + rf).offset().top }, 1000);
+    }
+});
+
 // Floating label headings for the contact form
 $(function() {
     $("body").on("input propertychange", ".floating-label-form-group", function(e) {
