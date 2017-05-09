@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="493px" height="252px" viewBox="0 0 493 252" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>White_Asia2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FD0000" offset="0%"></stop>
+            <stop stop-color="#FD0000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-12" transform="translate(-1971.000000, -1977.000000)">
+            <g id="White_Asia2" transform="translate(1971.000000, 1977.000000)">
+                <rect id="Rectangle-9" fill="#FFFFFF" x="0" y="0" width="493" height="252"></rect>
+                <text id="alltechasia" font-family="Futura-Medium, Futura" font-size="48" font-weight="400" letter-spacing="2.03999996">
+                    <tspan x="121.170625" y="207" fill="#FD0000">a</tspan>
+                    <tspan x="151.991875" y="207" fill="#FF0000">ll</tspan>
+                    <tspan x="179.978125" y="207" fill="#2A2929">tech</tspan>
+                    <tspan x="278.677187" y="207" fill="#FD0000">asia</tspan>
+                </text>
+                <rect id="Rectangle-7" fill="url(#linearGradient-1)" x="196" y="44" width="101" height="101" rx="10"></rect>
+                <text id="a" font-family="Futura-Medium, Futura" font-size="120" font-weight="400" line-spacing="129" fill="#FFFFFF">
+                    <tspan x="212" y="133">a</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

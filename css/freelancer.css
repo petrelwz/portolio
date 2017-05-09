@@ -593,6 +593,9 @@ footer .footer-below {
 .small-image{
     max-width:60%;
 }
+.xsmall-image{
+    max-width: 35%;
+}
 .xs-image{
     max-width:10%;
 }
