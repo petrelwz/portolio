@@ -433,10 +433,28 @@ footer .footer-below {
   zoom: 0.5;
   -moz-transform: scale(0.5);
   -moz-transform-origin: 0 0;
-  background: url(../img/social-sprite.png) no-repeat;
+  margin-right: 40px;
+  /*background: url(../img/social-sprite.png) no-repeat;*/
 }
 
-.social a.email {
+.social a:link {
+    text-decoration: none;
+}
+
+.social a:visited {
+    text-decoration: none;
+}
+
+.social a:hover {
+    text-decoration: none;
+    color: #666666;
+}
+
+.social a:active {
+    text-decoration: none;
+}
+
+/*.social a.email {
   background-position: 0px 0px;
   margin: 0 40px 0 0;
 }
@@ -455,9 +473,9 @@ footer .footer-below {
   background-position: -138px 0px;
   margin: 0 0px 0 0;
 }
+*/
 
-
-.social a.email:hover {
+/*.social a.email:hover {
   background-position: 0px -42px;
 }
 
@@ -472,7 +490,7 @@ footer .footer-below {
 .social a.twitter:hover {
   background-position: -138px -42px;
 }
-
+*/
 
 .scroll-top {
     z-index: 1049;
