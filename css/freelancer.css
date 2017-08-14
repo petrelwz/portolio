@@ -127,6 +127,11 @@ section.success img {
         margin: auto;
         margin-top: 15px;
 }
+.underline2{
+    width:80%;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
 
 header .intro-text .name {
     display: block;
